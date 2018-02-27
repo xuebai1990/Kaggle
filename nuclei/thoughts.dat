@@ -1,0 +1,5 @@
+1. Add dropout, does not work
+2. Try 512*512
+3. Seperatable conv?
+4. Mask rcnn
+5. Use convtranspose instead of upsampling, does not work, slightly worse
